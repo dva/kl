@@ -2,6 +2,7 @@ html {}
 
 body {
     font: bold 16px/10px monospace;
+    white-space: nowrap;
 }
 
 #page-wrap {
