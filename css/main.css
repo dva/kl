@@ -6,8 +6,17 @@ body {
 }
 
 #page-wrap {
-    padding: 25px;
+    padding: 5px;
 }
+
+.title {
+    margin: 25px 0 15px;
+    color: gray;
+}
+
+    .title:first-child {
+        margin-top: 0;
+    }
 
 a {
     text-decoration: none;

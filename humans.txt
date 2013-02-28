@@ -9,7 +9,7 @@ Location: Sumy, Ukraine.
 Name: GitHub.
 
 /* SITE */
-Last update: 2012/10/04
+Last update: 2013/02/28
 Standards: HTML5, CSS3.
-Components: .
+Components: _
 Software: Sublime Text 2 (sublimetext.com)
